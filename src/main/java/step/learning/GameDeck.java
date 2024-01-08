@@ -65,7 +65,7 @@ public class GameDeck extends JPanel implements Runnable {
         pieces.add(new Knight(White, 6,7));
         pieces.add(new Bishop(White, 2,7));
         pieces.add(new Bishop(White, 5,7));
-        pieces.add(new Queen(White, 3,4));
+        pieces.add(new Queen(White, 3,7));
         pieces.add(new King(White, 4,7));
 
 
